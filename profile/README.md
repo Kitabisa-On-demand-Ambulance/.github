@@ -31,8 +31,8 @@ Create an on-demand geolocation that can connect Ambulance availability and Ambu
 Bangkit 2022 Capstone Team C22-SC01
 - - -
 - [Federico Saputra](https://www.linkedin.com) - M7305F2611 - Universitas Prasetiya Mulya
-- [Nicolas Maria Andre Gozali]() - M7305F2608 -  Universitas Prasetiya Mulya
-- [Wesley Mulia Salim]() - M2305F2609 - Universitas Prasetiya Mulya
+- [Nicolas Maria Andre Gozali](https://www.linkedin.com) - M7305F2608 -  Universitas Prasetiya Mulya
+- [Wesley Mulia Salim](https://www.linkedin.com) - M2305F2609 - Universitas Prasetiya Mulya
 - [Luthfirrahman Dzulkarnain](https://www.linkedin.com) - A7211G1942 - Universitas Indraprasta PGRI
 - [Muhammad Ridho Saputra](https://www.linkedin.com) - A2012G1243 - Telkom University
 - [Rifqi Luthfi](https://www.linkedin.com) - A2012G1241 - Telkom University
