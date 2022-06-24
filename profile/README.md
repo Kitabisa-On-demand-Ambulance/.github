@@ -25,9 +25,9 @@ Create an on-demand geolocation that can connect Ambulance availability and Ambu
 ## Website Admin Panel
 <img src="https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/main/profile/img/admin-panel-1.png"></img>
 
-## Contributing
+## Contributor
 
-Bangkit 2022 Capstone Team C22-SC01
+Bangkit 2022 Capstone Team C22-OA01
 - [Federico Saputra](https://www.linkedin.com) - M7305F2611 - Universitas Prasetiya Mulya
 - [Nicolas Maria Andre Gozali](https://www.linkedin.com) - M7305F2608 -  Universitas Prasetiya Mulya
 - [Wesley Mulia Salim](https://www.linkedin.com) - M2305F2609 - Universitas Prasetiya Mulya
