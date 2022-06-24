@@ -8,7 +8,7 @@
 
 <h4 align="center">Here is where your kindness begins</h4>
 
-<img src="https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/main/profile/img/banner.svg"></img>
+<img src="img/banner.svg"></img>
 
 ## Problem Statement
 There are needs of Ambulances, especially for the underprivileged people. They are confused when they need urgent ambulance. At the other side Kitabisa has hundreds of NGO partners - almost all of them own Ambulance.
