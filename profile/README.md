@@ -2,11 +2,10 @@
   <br>
   <a href="#"><img src="https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/71ca16a11a3b323c797e4ff892590b911131c00c/profile/img/kitabisalogo.svg" alt="Markdownify" width="200"></a>
   <br>
-  On Demand Ambulance “Ambulance For Everyone”
+  On Demand Ambulance
   <br>
+  “Ambulance For Everyone”
 </h1>
-
-<h4 align="center">Here is where your kindness begins</h4>
 
 <img src="https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/f7ea495b05352eb9ede13e2687af7e2b530f712f/profile/img/banner.svg"></img>
 
@@ -29,7 +28,6 @@ Create an on-demand geolocation that can connect Ambulance availability and Ambu
 ## Contributing
 
 Bangkit 2022 Capstone Team C22-SC01
-- - -
 - [Federico Saputra](https://www.linkedin.com) - M7305F2611 - Universitas Prasetiya Mulya
 - [Nicolas Maria Andre Gozali](https://www.linkedin.com) - M7305F2608 -  Universitas Prasetiya Mulya
 - [Wesley Mulia Salim](https://www.linkedin.com) - M2305F2609 - Universitas Prasetiya Mulya
