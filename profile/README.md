@@ -8,5 +8,16 @@
 
 <h4 align="center">Here is where your kindness begins</h4>
 
-![screenshot](https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/main/profile/img/img1.png)
+## Screenshots
+<img src="" width="24%"></img>
+<img src="" width="24%"></img>
+<img src="" width="24%"></img>
+<img src="" width="24%"></img>
+
+## Problem Statement
+There are needs of Ambulances, especially for the underprivileged people. They are confused when they need urgent ambulance. At the other side Kitabisa has hundreds of NGO partners - almost all of them own Ambulance.
+
+## Project Scope
+Create an on-demand geolocation that can connect Ambulance availability and Ambulance demand
+(and as Ambulance need is urgent, please consider the user flow and alternative plan in case the demand is not fulfilled on the first request)
 
