@@ -46,12 +46,12 @@ To build this application and website, we use the following main frameworks/libr
 ## Contributor
 
 Bangkit 2022 Capstone Team C22-OA01
-- [Federico Saputra](https://www.linkedin.com) - M7305F2611 - Universitas Prasetiya Mulya
-- [Nicolas Maria Andre Gozali](https://www.linkedin.com) - M7305F2608 -  Universitas Prasetiya Mulya
-- [Wesley Mulia Salim](https://www.linkedin.com) - M2305F2609 - Universitas Prasetiya Mulya
-- [Luthfirrahman Dzulkarnain](https://www.linkedin.com) - A7211G1942 - Universitas Indraprasta PGRI
-- [Muhammad Ridho Saputra](https://www.linkedin.com) - A2012G1243 - Telkom University
-- [Rifqi Luthfi](https://www.linkedin.com) - A2012G1241 - Telkom University
-- [Aditya Ekafernanda Manansang](https://www.linkedin.com) - C2230L2114 - Universitas Katolik De La Salle Manado
-- [Phil Anggara Everhard Bawole](https://www.linkedin.com) - C2230L2115 - Universitas Katolik De La Salle Manado
-- [Fajar Maftuh Fadli](https://www.linkedin.com) - C7009G0964 - Universitas Gunadarma
+- [Federico Saputra](https://www.linkedin.com/in/federico-saputra-b1414a148) - M7305F2611 - Universitas Prasetiya Mulya
+- [Nicolas Maria Andre Gozali](https://www.linkedin.com/in/nicolas-maria-andre-gozali) - M7305F2608 -  Universitas Prasetiya Mulya
+- [Wesley Mulia Salim](https://www.linkedin.com/in/wesley-mulia-salim-349050165) - M2305F2609 - Universitas Prasetiya Mulya
+- [Luthfirrahman Dzulkarnain](https://www.linkedin.com/in/luthfirrahman-dzulkarnain-41b368191/) - A7211G1942 - Universitas Indraprasta PGRI
+- [Muhammad Ridho Saputra](https://www.linkedin.com/in/putrash/) - A2012G1243 - Telkom University
+- [Rifqi Luthfi](https://www.linkedin.com/in/rifqi-luthfi-85895120a) - A2012G1241 - Telkom University
+- [Aditya Ekafernanda Manansang](https://www.linkedin.com/in/ekafernandaa) - C2230L2114 - Universitas Katolik De La Salle Manado
+- [Phil Anggara Everhard Bawole](https://www.linkedin.com/in/phil-bawole) - C2230L2115 - Universitas Katolik De La Salle Manado
+- [Fajar Maftuh Fadli](https://www.linkedin.com/in/fajar-fadli-aa00581a7/) - C7009G0964 - Universitas Gunadarma
