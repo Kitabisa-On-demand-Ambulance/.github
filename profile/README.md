@@ -9,21 +9,39 @@
 
 <img src="https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/f7ea495b05352eb9ede13e2687af7e2b530f712f/profile/img/banner.svg"></img>
 
-## Problem Statement
-There are needs of Ambulances, especially for the underprivileged people. They are confused when they need urgent ambulance. At the other side Kitabisa has hundreds of NGO partners - almost all of them own Ambulance.
+## About this project
 
-## Project Scope
-Create an on-demand geolocation that can connect Ambulance availability and Ambulance demand
-(and as Ambulance need is urgent, please consider the user flow and alternative plan in case the demand is not fulfilled on the first request)
+The On Demand Ambulance Project is a project organized in collaboration with Bangkit and Kitabisa. This project was composed by 9 participants from Bangkit 2022, with 3 members each from Machine Learning, Mobile Development, and Cloud Computing.
 
-## Android Application For User
+### Background
+Kitabisa has more than 100 NGO partners, and almost all of them have ambulance facilities. In addition, the need for ambulances during the pandemic has also increased. However, access to information regarding the availability of ambulances by partner NGOs with communities in need is still very limited.
+
+### Purpose
+This project is to help people who need an ambulance during an emergency, by providing easy and fast communication facilities to the nearest ambulance service provider. For this reason, we created a simple application that is able to prevent false ambulance orders by checking whether an incident is classified as an accident or not. And what is also important is that all the data provided is stored and managed properly in the cloud, while maintaining the privacy of user data.
+
+## Implementation
+In this project, there are 2 things that have been made. The first is an application that is able to order ambulances. This ambulance order is done by filling out a form through the application and providing a photo as a form of verification that the incident is real. The second is the creation of an admin website that functions as a monitor and data storage media that has been provided by the user.
+
+### Android Application For User
 <img src="https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/main/profile/img/user-mb-1.png" width="24%"></img>
 <img src="https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/main/profile/img/user-mb-2.png" width="24%"></img>
 <img src="https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/main/profile/img/user-mb-3.png" width="24%"></img>
 <img src="https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/main/profile/img/user-mb-4.png" width="24%"></img>
 
-## Website Admin Panel
+### Website Admin Panel
 <img src="https://raw.githubusercontent.com/Kitabisa-On-demand-Ambulance/.github/main/profile/img/admin-panel-1.png"></img>
+
+## Tech Stack
+To build this application and website, we use the following main frameworks/libraries:
+- Python
+- Tensorflow
+- MobileNetV2 ( for transfer learning )
+- PaddleOCR
+- Android Studio
+- Laravel
+- Cloud SQL (Mysql)
+- Google Cloud PLatform
+- Google Maps Platform
 
 ## Contributor
 
